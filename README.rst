@@ -2,7 +2,7 @@
 Starbucks-py
 ============
 
-.. image:: https://pypip.in/v/Starbucks/badge.svg
+.. image:: https://img.shields.io/pypi/v/Starbucks.svg
     :target: https://pypi.python.org/pypi/Starbucks/
 
 Unofficial Starbucks API.
